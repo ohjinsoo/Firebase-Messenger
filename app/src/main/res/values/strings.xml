@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Original Chat App</string>
+    <string name="register">REGISTER</string>
+    <string name="authFailed">Account Auth Failed. Please try again.</string>
+    <string name="email_textview">email_textview</string>
+    <string name="uid_textview">uid_textview</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="click_to_sign_in">Click to SIGN IN INSTEAD</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="create_password">create password (min. 6 chars)</string>
+    <string name="chatroom_title">Chatroom Title</string>
+    <string name="timestamp">TIMESTAMP</string>
+    <string name="last_message">LAST_MESSAGE</string>
+    <string name="insert_message">INSERT MESSAGE</string>
+    <string name="create_your_chatroom_title">Create your chatroom title (max. 18 chars)!</string>
+    <string name="enter_your_friend_s_email_address">Enter Your Friend\'s Email Address</string>
+    <string name="create_new_chat">CREATE NEW CHAT</string>
+    <string name="create_a_chat">Create a Chat!</string>
+    <string name="enter_your_email_address">Enter your Email Address</string>
+    <string name="signout">SignOut</string>
+    <string name="createchat">CreateChat</string>
+    <string name="sign_in_with_your_email">Sign in with your Email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="you">YOU</string>
+    <string name="username">USERNAME</string>
+    <string name="createChatFailed">Could not find User\'s Email Address</string>
+    <string name="no_messages_received">No messages received.</string>
+</resources>

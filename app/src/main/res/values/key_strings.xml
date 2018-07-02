@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CHATS_KEY">chats</string>
+    <string name="MESSAGES_KEY">messages</string>
+    <string name="MEMBERS_KEY">members</string>
+    <string name="USERS_KEY">users</string>
+
+    <string name="CHAT_KEY">CHAT_KEY</string>
+    <string name="TITLE_KEY">TITLE_KEY</string>
+</resources>

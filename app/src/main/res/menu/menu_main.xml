@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/createChatButton"
+        android:icon="@android:drawable/sym_action_chat"
+        android:title="@string/createchat"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/signoutButton"
+        android:icon="@android:drawable/ic_delete"
+        android:title="@string/signout"
+        app:showAsAction="always" />
+</menu>
